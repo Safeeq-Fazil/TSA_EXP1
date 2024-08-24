@@ -1,6 +1,6 @@
-### Developed By: SAFEEQ FAZIL A
-### Register No: 212222240086
-###  Date: 
+## Developed By: SAFEEQ FAZIL A
+## Register No: 212222240086
+##  Date: 
 
 # Ex.No: 01 PLOT A TIME SERIES DATA
 
