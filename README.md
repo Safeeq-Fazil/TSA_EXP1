@@ -9,10 +9,11 @@
 To Develop a python program to Plot a time series data of vegetable price.
 
 # ALGORITHM:
-1. Import the required packages like pandas and matplot
-2. Read the dataset using the pandas
-3. Plot the data according to need and can be altered monthly, or yearly.
-4. Display the graph.
+1. Load Data: Read the CSV file into a DataFrame.
+2. Convert Date: Convert the 'Date' column to datetime format.
+3. Filter Data: Select rows where the 'Commodity' column matches the desired commodity (e.g., "Potato Red").
+4. Plot Data: Create a line plot of 'Date' vs. 'Average' price for the filtered data.
+5. Display Plot: Show the plot with appropriate labels, title, and layout adjustments.
 
 # PROGRAM:
 ```python
